@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UlyssesTranquilino
-- 🚀 Frontend Developer | CS Student (2nd Year) | UI/UX & Web Development
-- 💻 Specializing in React.js, Tailwind CSS, and JavaScript.
+- 🚀 Frontend Developer | CS Student (3rd Year) | UI/UX & Web Development
+- 💻 Specializing in Next.js, React.js, Tailwind CSS, and JavaScript.
 
 
 <!---
