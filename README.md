@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ulysses Tranquilino
 
 🚀 **Software Developer & Machine Learning Enthusiast** | 3rd Year CS Student
-💻 **DOST Scholar specializing in **Full-Stack Development (Next.js/React)** and **Data Science (Python/Scikit-learn)**. 
-🎯 **Passionate about building responsive user interfaces and architecting data pipelines to extract stories from complex datasets. 
+💻 DOST Scholar specializing in **Full-Stack Development (Next.js/React)** and **Data Science (Python/Scikit-learn)**. 
+🎯 Passionate about building responsive user interfaces and architecting data pipelines to extract stories from complex datasets. 
 
 ---
 
